@@ -1,0 +1,6 @@
+com\bestbuy\AppTest.class
+com\bestbuy\bestbuytest\StoresCURDTestWithSteps.class
+com\bestbuy\bestbuytest\ProductCURDTestWithSteps.class
+com\bestbuy\testbase\TestBase.class
+com\bestbuy\bestbuytest\ServicesCRUDTestWithSteps.class
+com\bestbuy\bestbuytest\CategoriesCRUDTestWithSteps.class

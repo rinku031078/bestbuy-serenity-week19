@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.bestbuy.bestbuytest.ProductCURDTestWithSteps" skipped="0" tests="4" time="10.9" timestamp="2022-01-10T17:01:51.738Z[Europe/London]"><testcase classname="com.bestbuy.bestbuytest.ProductCURDTestWithSteps" name="This test will create a new products and verify its generated"/><testcase classname="com.bestbuy.bestbuytest.ProductCURDTestWithSteps" name="This test will get the product information by ID"/><testcase classname="com.bestbuy.bestbuytest.ProductCURDTestWithSteps" name="This test will update the product information and verify the updated information"><failure message="1 expectation failed.&#10;JSON path name doesn't match.&#10;Expected: Vodafone Mobile61956_Changed&#10;  Actual: null&#10;" type="java.lang.AssertionError">1 expectation failed.
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.bestbuy.bestbuytest.ProductCURDTestWithSteps" skipped="0" tests="4" time="1.21" timestamp="2022-01-11T00:00:08.705Z[Europe/London]"><testcase classname="com.bestbuy.bestbuytest.ProductCURDTestWithSteps" name="This test will create a new products and verify its generated"/><testcase classname="com.bestbuy.bestbuytest.ProductCURDTestWithSteps" name="This test will get the product information by ID"/><testcase classname="com.bestbuy.bestbuytest.ProductCURDTestWithSteps" name="This test will update the product information and verify the updated information"><failure message="1 expectation failed.&#10;JSON path name doesn't match.&#10;Expected: Vodafone Mobile99885_Changed&#10;  Actual: null&#10;" type="java.lang.AssertionError">1 expectation failed.
 JSON path name doesn't match.
-Expected: Vodafone Mobile61956_Changed
+Expected: Vodafone Mobile99885_Changed
   Actual: null
 </failure><system-err>1 expectation failed.
 JSON path name doesn't match.
-Expected: Vodafone Mobile61956_Changed
+Expected: Vodafone Mobile99885_Changed
   Actual: null
 &#13;
 io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;

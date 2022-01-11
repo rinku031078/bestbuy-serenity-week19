@@ -92,7 +92,7 @@
         <version>2.18</version>
         <configuration>
           <includes>
-            <include>*/BestBuy//.java</include>
+            <include>**/bestbuy/**/*.java</include>
           </includes>
           <forkCount>4</forkCount>
           <reuseForks>true</reuseForks>
